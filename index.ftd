@@ -2,6 +2,8 @@
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: merincyriac03.github.io/portfolio/lib
 
+-- import: fastnui.trizwit.com/UI-Components/Footer/footer-1
+
 -- lib.page:
 
 -- lib.header:
@@ -22,5 +24,13 @@ link-2: https://calendly.com/
 cover: $assets.files.assets.dp.jpg
 
 I am an Electronics and Communication Engineering student.
+
+-- footer-1.footer-1:
+logo: $assets.files.images.trizwit.jpeg
+facebook: $assets.files.images.Footer.facebook.svg
+twitter: $assets.files.images.Footer.twitter.svg
+instagram: $assets.files.images.Footer.instagram.svg
+linkedin: $assets.files.images.Footer.linkedin.svg
+logo-test: TRIZWIT
 
 -- end: lib.page

@@ -1,7 +1,6 @@
 -- import: sarvom.github.io/holy-angel-typography 
 -- import: shaheen-senpai.github.io/fastn-cs-tail
 
-
 -- component page:
 optional ftd.image-src logo:
 optional string cta-text-1: 
